@@ -18,6 +18,7 @@ This web application is designed to provide a seamless drive-through shopping ex
 3. Set store hours and availability
 
 **_Vendor:_**
+
 1.Vendor can manage its store and their respective products.
 2. Add, edit, and delete their products.
 3. Set store hours and availability
