@@ -46,8 +46,8 @@ HTML, CSS, and JavaScript for web development fundamentals.
 
 **_Backend:_**
 
-Node.js and Express.js for server-side development.
-MongoDB or PostgreSQL for database management.
+PHP for server-side development.
+MariaDB (formerly MySQL) for database management.
 
 **Demo**
 https://drive.google.com/file/d/1GLOmcRyNP9eeVeCVVAZZQzbYr718qs2F/view?usp=drive_link
